@@ -14,3 +14,7 @@ customer tablosunda bulunan first_name sütunundaki değeri 'Mary' olan müşter
 
 5.soru:
 film tablosundaki uzunluğu(length) 50 ten büyük OLMAYIP aynı zamanda rental_rate değeri 2.99 veya 4.99 OLMAYAN verileri sıralayınız.
+
+
+# Bu soruları çözerken kullanılan veri setine ulaşmak isterseniz
+https://www.postgresqltutorial.com/postgresql-getting-started/postgresql-sample-database/
