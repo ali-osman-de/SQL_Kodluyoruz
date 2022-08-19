@@ -85,6 +85,19 @@ film tablosunda bulunan filmlerden rental_rate değeri 0.99 a eşit olan en uzun
 4.soru:
 film tablosunda bulunan filmlerin uzunluğu 150 dakikadan büyük olanlarına ait kaç farklı replacement_cost değeri vardır?
 
+<h2>ODEV-7</h2>
+
+1.soru:
+film tablosunda bulunan filmleri rating değerlerine göre gruplayınız.
+
+2.soru:
+film tablosunda bulunan filmleri replacement_cost sütununa göre grupladığımızda film sayısı 50 den fazla olan replacement_cost değerini ve karşılık gelen film sayısını sıralayınız.
+
+3.soru:
+customer tablosunda bulunan store_id değerlerine karşılık gelen müşteri sayılarını nelerdir? 
+
+4.soru:
+city tablosunda bulunan şehir verilerini country_id sütununa göre gruplandırdıktan sonra en fazla şehir sayısı barındıran country_id bilgisini ve şehir sayısını paylaşınız.
 
 <h2>Bu soruları çözerken kullanılan veri setine ulaşmak isterseniz</h2>
 https://www.postgresqltutorial.com/postgresql-getting-started/postgresql-sample-database/
