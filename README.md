@@ -149,5 +149,19 @@ actor ve customer tablolarında bulunan first_name sütunları için ilk tabloda
 4.soru:
 İlk 3 sorguyu tekrar eden veriler için de yapalım.
 
+<h2>ODEV-12</h2>
+
+1.soru:
+film tablosunda film uzunluğu length sütununda gösterilmektedir. Uzunluğu ortalama film uzunluğundan fazla kaç tane film vardır?
+
+2.soru:
+film tablosunda en yüksek rental_rate değerine sahip kaç tane film vardır?
+
+3.soru:
+film tablosunda en düşük rental_rate ve en düşün replacement_cost değerlerine sahip filmleri sıralayınız.
+
+4.soru:
+payment tablosunda en fazla sayıda alışveriş yapan müşterileri(customer) sıralayınız.
+
 <h2>Bu soruları çözerken kullanılan veri setine ulaşmak isterseniz</h2>
 https://www.postgresqltutorial.com/postgresql-getting-started/postgresql-sample-database/
