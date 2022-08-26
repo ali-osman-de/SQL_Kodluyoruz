@@ -124,5 +124,16 @@ customer tablosu ile payment tablosunda bulunan payment_id ile customer tablosun
 3.soru:
 customer tablosu ile rental tablosunda bulunan rental_id ile customer tablosundaki first_name ve last_name isimlerini birlikte görebileceğimiz INNER JOIN sorgusunu yazınız.
 
+<h2>ODEV-10</h2>
+
+1.soru:
+city tablosu ile country tablosunda bulunan şehir (city) ve ülke (country) isimlerini birlikte görebileceğimiz LEFT JOIN sorgusunu yazınız.
+
+2.soru:
+customer tablosu ile payment tablosunda bulunan payment_id ile customer tablosundaki first_name ve last_name isimlerini birlikte görebileceğimiz RIGHT JOIN sorgusunu yazınız.
+
+3.soru:
+customer tablosu ile rental tablosunda bulunan rental_id ile customer tablosundaki first_name ve last_name isimlerini birlikte görebileceğimiz FULL JOIN sorgusunu yazınız.
+
 <h2>Bu soruları çözerken kullanılan veri setine ulaşmak isterseniz</h2>
 https://www.postgresqltutorial.com/postgresql-getting-started/postgresql-sample-database/
